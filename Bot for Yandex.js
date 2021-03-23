@@ -4,7 +4,7 @@
 // @version      0.1
 // @description  try to take over the world!
 // @author       You
-// @match        http://www.yandex.ru/*
+// @match        http://yandex.ru/*
 // @grant        none
 // ==/UserScript==
 
